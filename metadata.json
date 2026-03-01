@@ -1,0 +1,5 @@
+{
+  "name": "Multi-Agent Orchestrator",
+  "description": "A visual demonstration of an orchestrator model splitting tasks across 5 parallel worker agents.",
+  "requestFramePermissions": []
+}
